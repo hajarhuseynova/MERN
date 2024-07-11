@@ -1,0 +1,22 @@
+<%- include(rootPath + '/views/layout/header.ejs' ) %>
+
+<div class="container mt-5">
+    <a href="http://localhost:3232/dashboard" class="btn btn-primary mb-5 mt-5">Go Back</a>
+    <form method="post" action="/dashboard/createCard">
+        <div class="mb-3">
+            <label for="cardTitle" class="form-label">Card Title</label>
+            <input type="text" name="title" class="form-control" id="cardTitle" aria-describedby="emailHelp">
+        </div>
+        <div class="mb-3">
+            <label for="cardDesc" class="form-label">Description</label>
+            <input type="text" name="desc" class="form-control" id="cardDesc">
+        </div>
+        <div class="mb-3">
+            <label for="icon" class="form-label">Icon</label>
+            <input type="text" name="icon" class="form-control" id="icon">
+        </div>
+        <button type="submit" class="btn btn-secondary mt-5">Create</button>
+    </form>
+</div>
+
+<%- include(rootPath + '/views/layout/footer.ejs' ) %>

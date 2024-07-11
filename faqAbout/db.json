@@ -1,0 +1,18 @@
+{
+    "faq": [
+        {
+            "id": "1",
+            "questions": "sjhdjsjs",
+            "answer": "sjdhdjsik"
+        }
+    ],
+    "about": [
+        {
+            "id": "1",
+            "fullName": "HajarHajar",
+            "Age": "20",
+            "Gender": "skdjfhjdkslk",
+            "Profession": "MERN"
+        }
+    ]
+}

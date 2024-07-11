@@ -1,0 +1,11 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "email": "huseynovah_hecer@mail.ru",
+      "username": "hacar.huseynova2",
+      "password": "$2b$10$ZUzuKbWBCz2o1nitXMJqjOLi/C46NSTipCV.GZ6mLOZneqTTIS6Te",
+      "isActive": true
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": "2",
+      "email": "hajar@gmail.com",
+      "fullname": "hajar123",
+      "username": "hajar",
+      "password": "$2b$10$XnPWMwTR5SG2L.du1IGZJ..5yZxJOAuytpFZWr43pUE2TmMe/ewea",
+      "isActive": true
+    },
+    {
+      "id": "3",
+      "email": "hajar@gmail.com",
+      "fullname": "asdjhgvhjkl",
+      "username": "hajar",
+      "password": "$2b$10$e0tyvUnybKZR2O912I6B5upn9ySRjKqL3Ch8PH/rc1t3QIR4/0/cy",
+      "isActive": true
+    },
+    {
+      "id": "4",
+      "email": "huseynovah_hecer@mail.ru",
+      "fullname": "Hajar Huseynova",
+      "username": "huseynovah_",
+      "password": "$2b$10$f545RubhidMJM19OfQcw0uYlsyGAreps9MljEBneBg4ktf9LOyCPG",
+      "isActive": true
+    }
+  ]
+}

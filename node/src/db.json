@@ -1,0 +1,114 @@
+{
+    "about": [
+      { 
+      "id": "1",
+      "a1":"Download CV",
+      "a2":"Port",
+      "desc1": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur",
+      "desc2":"magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor si voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur"
+     }
+    ],
+    "service":[
+{
+  "id":1,
+  "title":"Creative Design",
+  "desc":"Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply"
+},
+{
+  "id":2,
+  "title":"Creative Design",
+  "desc":"Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply"
+},
+{
+  "id":3,
+  "title":"Creative Design",
+  "desc":"Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply"
+},
+{
+  "id":4,
+  "title":"Creative Design",
+  "desc":"Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply"
+},
+{
+  "id":5,
+  "title":"Creative Design",
+  "desc":"Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply"
+},
+{
+  "id":6,
+  "title":"Creative Design",
+  "desc":"Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply"
+}
+    ],
+    "blog":[
+      {
+        "id":1,
+  "title":"Master These Awesome",
+  "time":"By Dorian Gray, Jun 27, 2018",
+  "desc":"Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been"
+      },
+      {
+        "id":2,
+  "title":"Best Design Items to Appeal",
+  "time":"By Dorian Gray, Jun 27, 2018",
+  "desc":"Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been"
+      },
+      {
+        "id":3,
+  "title":"Best Design Items to Appeal",
+  "time":"By Dorian Gray, Jun 27, 2018",
+  "desc":"Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been"
+      }
+      
+    ],
+    "testinomial":[
+      {
+        "id":1,
+  "name":"Master These Awesome",
+  "prof":"Web Developer",
+  "desc":"Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been"
+      },
+      {
+        "id":2,
+  "name":"Best Design Items to Appeal",
+  "prof":"C# developer",
+  "desc":"Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been"
+      },
+      {
+        "id":3,
+  "name":"Best Design Items to Appeal",
+  "prof":"Java developer",
+  "desc":"Lorem Ipsum has been standard. Lorem Ipsum is simply text of the printing and typesetting industry. Lorem Ipsum has been"
+      }
+    ],
+    "numbers":[
+      {
+        "id":1,
+        "number":400,
+        "desc":"Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply"
+      },
+      {
+        "id":2,
+        "number":450,
+        "desc":"Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply"
+      },
+      {
+        "id":3,
+        "number":200,
+        "desc":"Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply"
+      },
+      {
+        "id":4,
+        "number":150,
+        "desc":"Lorem Ipsum simply text of the printing and type setting industry when an unknown printing simply"
+      }
+    ],
+    "intro":
+      {
+        "id":1,
+        "desc":"Lorem hajar simply text of the printing and type setting industry when an unknown printing simply",
+        "professions":[
+          "Web developer", "Backend Developer","Fronend Developer"
+        ]
+      }
+  }

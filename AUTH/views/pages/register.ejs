@@ -1,0 +1,29 @@
+<%- include(rootPath + '/views/layout/header.ejs' ) %>
+
+<div class="container mt-3">
+    <div class="row">
+        <div class="col-lg-6">
+            <h5 class="text-center">Register</h5>
+            <form method="post" action="/register/user">
+                <div class="mb-2">
+                    <label for="exampleInputUsername" class="form-label">Username</label>
+                    <input type="text" class="form-control" name="username" id="exampleInputUsername" >
+                </div>
+                <div class="mb-2">
+                    <label for="exampleInputEmail1" class="form-label">Email</label>
+                    <input type="text" class="form-control" name="email" id="exampleInputEmail1" >
+                </div>
+                <div class="mb-2">
+                    <label for="exampleInputPassword1" class="form-label">Password</label>
+                    <input type="password" class="form-control" name="password" id="exampleInputPassword1">
+                </div>
+                <button type="submit" class="btn btn-secondary w-100">Register</button>
+            </form>
+        </div>
+        <div class="col-lg-6">
+            <img src="https://th.bing.com/th/id/OIP.tAVpaVql92wp5fTaGtdQqwHaEo?rs=1&pid=ImgDetMain" alt="" srcset="">
+        </div>
+    </div>
+</div>
+
+<%- include(rootPath + '/views/layout/footer.ejs' ) %>
